@@ -1,0 +1,4 @@
+﻿  AppSource.cpp
+C:\Users\stm_0\source\repos\GlobalMethodsWithConstraintsAndDerivatives_v10_12_06_2022\BaseMethod.h(9,1): warning C4005: INFINITY: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\corecrt_math.h(88,1): message : см. предыдущее определение "INFINITY"
+  GlobalMethodsWithConstraintsAndDerivatives_v10_12_06_2022.vcxproj -> C:\Users\stm_0\source\repos\GlobalMethodsWithConstraintsAndDerivatives_v10_12_06_2022\Debug\GlobalMethodsWithConstraintsAndDerivatives_v10_12_06_2022.exe
